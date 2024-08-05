@@ -1,0 +1,144 @@
+{
+    "jobTitle": [
+         {
+            "title":"Aspiring Full-stack developer and Cybersecurity analyst"
+
+         }
+    ],
+    "about": [
+       
+      "I am a self-motivated aspiring developer and coding enthusiast, with a passion for exploring the endless possibilities of technology. Having matriculated from The Leadership College in 2023, I am currently immersed in a web development bootcamp at Life Choices Academy, where I am eagerly expanding my skills and knowledge.While I am at the beginner level in my coding journey, I am dedicated to learning and mastering the intricacies of web development. Beyond my professional pursuits, I am an avid linguist fascinated by languages such as Japanese, Arabic, and German. You'll often find me discovering new cafes, enjoying quality time with family and friends, or strategizing over a chessboard.I am excited about the opportunity to contribute to innovative projects and collaborate with like-minded individuals who share my passion for technology and continuous learning."
+       
+        
+    ],
+    "education": [
+    {"id": 1,
+    "School1": "Life Choices Academy: Web Development Bootcamp,",
+    "Year1":"April 2024 - Present",
+    "Experiance1": "At Life Choices Academy I am learning proffessional and techincal development.The technical curriculum has a focus on Html, CSS, Bootstrap,JavaScript, VueJS, NodeJS, mySQL"
+
+    },
+    {
+        "id": 2,
+        "School2":  "Harvard's Cs50 Introduction to Computer Science",
+        "Year2":"April 2024 - Present",
+        "Experiance2":"Cs50x has been a rigourous journey of discovery.Taught mainly by Proffessor David.J Malan the course has a focus on abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, Python, SQL, and JavaScript plus CSS and HTML."
+
+    },
+    {
+        "id": 3,
+        "School3":"Khan Academy:Computer Science Course: Internet Security",
+        "Year3":"December 2023 - Present",
+        "Experiance3":"This course has a focus on the theoretical aspect of computer science. In my opnion it is introductory in nature, and has a focus on algorithms cryptogoraphy and  information theory. The course led me to dicover my love for cryptogoraphy and cyphers."
+
+    },
+    {
+        "id": 4,
+        "School4": "The Leadership College Mannernberg",
+        "Year4": "2018-2023",
+        "Experiance4":"I attended and matriculated from The Leadership College Mannernberg. My experiance at the school was a generally a positive one"
+    }
+ 
+    ],
+   
+    "skills": [
+    {
+      "id": 5,
+      "softSkill1": "Strong analytical and problem-solving abilities",
+      "softSkill2": "Ability to work collaboratively in a team environment",
+      "softSkill3": "Adaptability and willingness to learn new concepts"
+    },
+    {
+       "id": 6,
+      "polyglotSkill1": "English",
+      "polyglotSkill2": "Afrikaans",
+      "polyglotSkill3": "I have been studing arabic for three months  Arabic (ثلاثة أشهر)",
+      "polyglotSkill4": "I have been studing German for eight months German (acht Monate)",
+      "polyglotskill": "I have been studying Japenese for a year and a half (一年半)"
+      
+      
+    },
+    
+    
+{        "id": 7,
+        "techSkill1": "Html",
+        "techSkill2": "CSS",
+        "techSkill3": "Bootstrap",
+        "techSkill4": "JavaScript",
+        "techSkill5": "VueJS"
+    }
+        
+    ],
+    "testimonials": [
+    {
+      "name": "Thuthuza",
+      "surname": "Poswayo",
+      "testimonial": "Nusaibah is kind, helpful and easily approachable. She is amazing to work with, she makes a great team player!",
+      "profile": "https://nusaibah01.github.io/all-images/images/Thutz1.jpg"
+
+    },
+    {
+        "name": "LamlaNkosi",
+        "surname": "Nomnganga",
+        "testimonial": "Nuisabah is an absolute gem, Calm, kind, and incredibly diligent, she embodies grace and dedication.A true team player, she is always focused on her tasks, ensuring a harmonious work environment. Additionally, she is a great person to talk to, who under pressure, perseveres until the job is done.",
+        "profile": "https://nusaibah01.github.io/all-images/images/Lamla.jpg"
+    },
+    {
+        "name": "Imraan",
+        "surname": "Sheldon",
+        "testimonial": "Nusaibah is a remarkable individual, embodying kindness, dedication, and intelligence in every aspect of her life. Her gentle demeanor belies a remarkable resilience and inner strength, inspiring those around her to strive for greatness. It is a privilege to know Nusaibah, and I have no doubt that she will continue to  make a positive impact on the world around her.",
+        "profile": "https://nusaibah01.github.io/all-images/images/Imraan.jpg"
+    },
+    {
+        "name": "Abdurahman",
+        "surname": "Charif",
+        "testimonial": "Nusaibah is a  dedicated worker that uses her insight to accomplish her goals and help those contribute to those around her.Her commitment and dedication shine through with all that she applies herself at.",
+        "profile": "https://nusaibah01.github.io/all-images/images/Abdu.png"
+    },
+    {
+        "name": "Joel",
+        "surname": "Mukanya",
+        "testimonial": "Nuaibah is a highly creative, well-behaved, and dedicated individual who thrives on collaborating with her peers and excels at working on project assignments. She has acquired various skills and tools, including HTML5, CSS3, Bootstrap,VS Code, and wireframe. I am pleased to introduce her as an exceptional candidate and developer",
+        "profile": "https://nusaibah01.github.io/all-images/images/joel2.jpg"
+    }
+
+       
+],
+"projects" : [
+    {
+      "project1": "Calculator",
+       "description1": "Using Html, CSS and Javascript I designed a calculator Web app",
+       "image1": "https://nusaibah01.github.io/all-images/images/Catculator.jpg",
+       "github1": "https://github.com/Nusaibah01/JavaScript-Calculator.git",
+       "vercel1": "https://java-script-calculator-sigma.vercel.app/"
+    },
+    {
+       "project2": "Keyboard",
+       "description2":"Using Html, CSS and Javascript I designed a keyboard Web app",
+       "image2":"https://nusaibah01.github.io/all-images/images/KeyBoard.png",
+       "github2":"https://github.com/Nusaibah01/Keyboard.git",
+       "vercel2":"https://keyboard-rosy.vercel.app/"
+
+    },
+    {
+       "project3": "To Do List",
+       "description3":"Using Html, CSS and javascript I designed a To Do List Web App",
+       "image3":"https://nusaibah01.github.io/all-images/images/To Do.jpg",
+       "github3":"https://github.com/Nusaibah01/assignment03.git",
+       "vercel3":"https://todolist-gamma-tan.vercel.app/"
+    },
+    {
+       "project4": "Eccomerce",
+       "description4": "Using Html, CSS and Javascript I designed a bookstore ",
+       "image4":"https://nusaibah01.github.io/all-images/images/eccomerce.png",
+       "github4": "https://github.com/Nusaibah01/eccomerce.git",
+       "vercel4": "https://eccomerce-ebon.vercel.app/"
+
+
+    }
+   
+    
+   
+    ]
+
+}
