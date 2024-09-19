@@ -120,7 +120,7 @@
     {
        "project": "Keyboard",
        "description":"Using Html, CSS and Javascript I designed a keyboard web application",
-       "image":"https://nusaibah1.github.io/portfolioImages/",
+       "image":"https://nusaibah1.github.io/portfolioImages/images/KeyBoard.png",
        "github":"https://github.com/Nusaibah01/Keyboard.git",
        "vercel":"https://keyboard-rosy.vercel.app/"
 
@@ -128,33 +128,34 @@
     {
        "project": "To Do List",
        "description":"Using Html, CSS and javascript I designed a To Do List web application",
-       "image":"https://nusaibah1.github.io/portfolioImages/",
+       "image":"https://nusaibah1.github.io/portfolioImages/images/TODO.png",
        "github":"https://github.com/nusaibah1/toDoList.git",
        "vercel":"https://todolist-gamma-tan.vercel.app/"
     },
     {
        "project": "Eccomerce",
        "description": "Using Html, CSS and Javascript I designed a bookstore web application",
-       "image":"https://nusaibah1.github.io/portfolioImages/",
+       "image":"https://nusaibah1.github.io/portfolioImages/images/eccomerce.png",
        "github": "https://github.com/nusaibah1/eunioaBookstore.git",
        "vercel": "https://eccomerce-ebon.vercel.app/"
 
 
     },
-   {
-    "project": "Whac-A-Mole",
-    "description": "Using Html, CSS and JavaScript I designed a retro Whac-A-Mole Game web application",
-    "image": "https://nusaibah1.github.io/portfolioImages/",
-    "github": "https://github.com/nusaibah1/Whac-A-Mole.git",
-    "vercel": "https://whac-a-mole-seven.vercel.app/"
-   },
     {
         "project": "Inventory Management System",
         "description": "For my Capstone Project at Life Choices Academy, I designed a full stack  inventory management system web application.",
-        "image": "https://nusaibah1.github.io/portfolioImages/",
+        "image": "https://nusaibah1.github.io/portfolioImages/images/Track-It.png",
         "github": "https://github.com/nusaibah1/Track-It.git",
         "firebase": "https://trackit-4afef.web.app/"
-    }
+    },
+   {
+    "project": "Whac-A-Mole",
+    "description": "Using Html, CSS and JavaScript I designed a retro Whac-A-Mole Game web application",
+    "image": "https://nusaibah1.github.io/portfolioImages/images/WAM.png",
+    "github": "https://github.com/nusaibah1/Whac-A-Mole.git",
+    "vercel": "https://whac-a-mole-seven.vercel.app/"
+   }
+  
    
    
     ]
