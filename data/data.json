@@ -1,10 +1,14 @@
 {
     "jobTitle": [
          {
-            "title":"Aspiring Full Stack Developer and Software Engineer"
+            "title":"Aspiring  Developer..."
 
 
+         },
+         {
+            "title": "Aspiring Software Engineer"
          }
+
     ],
     "about": [
        
@@ -107,38 +111,51 @@
 ],
 "projects" : [
     {
-      "project1": "Calculator",
-       "description1": "Using Html, CSS and Javascript I designed a calculator Web app",
-       "image1": "https://nusaibah01.github.io/all-images/images/Catculator.jpg",
-       "github1": "https://github.com/Nusaibah01/JavaScript-Calculator.git",
-       "vercel1": "https://java-script-calculator-sigma.vercel.app/"
+      "project": "Calculator",
+       "description": "Using Html, CSS and Javascript I designed a calculator web application",
+       "image": "https://nusaibah1.github.io/portfolioImages/",
+       "github": "https://github.com/Nusaibah01/JavaScript-Calculator.git",
+       "vercel": "https://java-script-calculator-sigma.vercel.app/"
     },
     {
-       "project2": "Keyboard",
-       "description2":"Using Html, CSS and Javascript I designed a keyboard Web app",
-       "image2":"https://nusaibah01.github.io/all-images/images/KeyBoard.png",
-       "github2":"https://github.com/Nusaibah01/Keyboard.git",
-       "vercel2":"https://keyboard-rosy.vercel.app/"
+       "project": "Keyboard",
+       "description":"Using Html, CSS and Javascript I designed a keyboard web application",
+       "image":"https://nusaibah1.github.io/portfolioImages/",
+       "github":"https://github.com/Nusaibah01/Keyboard.git",
+       "vercel":"https://keyboard-rosy.vercel.app/"
 
     },
     {
-       "project3": "To Do List",
-       "description3":"Using Html, CSS and javascript I designed a To Do List Web App",
-       "image3":"https://nusaibah01.github.io/all-images/images/To Do.jpg",
-       "github3":"https://github.com/Nusaibah01/assignment03.git",
-       "vercel3":"https://todolist-gamma-tan.vercel.app/"
+       "project": "To Do List",
+       "description":"Using Html, CSS and javascript I designed a To Do List web application",
+       "image":"https://nusaibah1.github.io/portfolioImages/",
+       "github":"https://github.com/nusaibah1/toDoList.git",
+       "vercel":"https://todolist-gamma-tan.vercel.app/"
     },
     {
-       "project4": "Eccomerce",
-       "description4": "Using Html, CSS and Javascript I designed a bookstore ",
-       "image4":"https://nusaibah01.github.io/all-images/images/eccomerce.png",
-       "github4": "https://github.com/Nusaibah01/eccomerce.git",
-       "vercel4": "https://eccomerce-ebon.vercel.app/"
+       "project": "Eccomerce",
+       "description": "Using Html, CSS and Javascript I designed a bookstore web application",
+       "image":"https://nusaibah1.github.io/portfolioImages/",
+       "github": "https://github.com/nusaibah1/eunioaBookstore.git",
+       "vercel": "https://eccomerce-ebon.vercel.app/"
 
 
+    },
+   {
+    "project": "Whac-A-Mole",
+    "description": "Using Html, CSS and JavaScript I designed a retro Whac-A-Mole Game web application",
+    "image": "https://nusaibah1.github.io/portfolioImages/",
+    "github": "https://github.com/nusaibah1/Whac-A-Mole.git",
+    "vercel": "https://whac-a-mole-seven.vercel.app/"
+   },
+    {
+        "project": "Inventory Management System",
+        "description": "For my Capstone Project at Life Choices Academy, I designed a full stack  inventory management system web application.",
+        "image": "https://nusaibah1.github.io/portfolioImages/",
+        "github": "https://github.com/nusaibah1/Track-It.git",
+        "firebase": "https://trackit-4afef.web.app/"
     }
    
-    
    
     ]
 
