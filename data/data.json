@@ -6,21 +6,23 @@
 
          },
          {
-            "title": "Aspiring Software Engineer"
+            "title": "Aspiring Cyber Security Analyst"
          }
 
     ],
     "about": [
        
-      "I am a self-motivated aspiring developer and coding enthusiast, with a passion for exploring the endless possibilities of technology. Having matriculated from The Leadership College in 2023, I am currently immersed in a web development bootcamp at Life Choices Academy, where I am eagerly expanding my skills and knowledge.While I am at the beginner level in my coding journey, I am dedicated to learning and mastering the intricacies of web development. Beyond my professional pursuits, I am an avid linguist fascinated by languages such as Japanese, Arabic, and German. You'll often find me discovering new cafes, enjoying quality time with family and friends, or strategizing over a chessboard.I am excited about the opportunity to contribute to innovative projects and collaborate with like-minded individuals who share my passion for technology and continuous learning."
-       
+     "My journey to becoming a developer all started with a question: 'How does the internet actually work?' While in high school, I dabbled in a few online courses, and after graduating, I decided to attend a web development bootcamp to learn how to make websites—among other things. My passion for exploring the endless possibilities of technology led me to LC Studio, where I am eagerly expanding my skill set and knowledge. I would love the opportunity to contribute to innovative projects and collaborate with people who share my passion for technology and continuous learning."
+      
         
     ],
+
     "education": [
-    {"id": 1,
-    "School1": "Life Choices Academy: Web Development Bootcamp,",
-    "Year1":"April 2024 - Present",
-    "Experiance1": "At Life Choices Academy I am learning proffessional and techincal development.The technical curriculum has a focus on Html, CSS, Bootstrap,JavaScript, VueJS, NodeJS, mySQL"
+    {
+        "id": 1,
+        "School1": "Life Choices Academy: Web Development Bootcamp,",
+        "Year1":"April 2024 - September",
+        "Experiance1": "At Life Choices Academy I underwent proffessional and techincal development.The technical curriculum had a focus on Html, CSS, Bootstrap,JavaScript, VueJS, NodeJS, mySQL"
 
     },
     {
@@ -142,8 +144,8 @@
 
     },
     {
-        "project": "Inventory Management System",
-        "description": "For my Capstone Project at Life Choices Academy, I designed a full stack  inventory management system web application.",
+        "project": "IMS",
+        "description": "For my Capstone Project at Life Choices Academy, I designed a full stack Inventory Management System web application.",
         "image": "https://nusaibah1.github.io/portfolioImages/images/Track-It.png",
         "github": "https://github.com/nusaibah1/Track-It.git",
         "firebase": "https://trackit-4afef.web.app/"
