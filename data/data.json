@@ -112,29 +112,30 @@
        
 ],
 "projects" : [
+
+    {
+        "project":"Case Study",
+        "description": "At LC Studio I worked on a portfolio case study with my team members for the UI/UX hackathon we particapated in.",
+        "image": "https://nusaibah1.github.io/portfolioImages/images/Case Study.png",
+        "addLinks": "https://trello.com/invite/b/67122a36fc7809302f1e4c3a/ATTI915de7c5b54b2f92e8a0ed5d5f8dc74a3DEFD47C/team-e"
+    },
+
+    {
+        "project": "IMS",
+        "description": "For my Capstone Project at Life Choices Academy, I designed a full stack Inventory Management System web application.",
+        "image": "https://nusaibah1.github.io/portfolioImages/images/Track-It.png",
+        "github": "https://github.com/nusaibah1/Track-It.git",
+        "firebase": "https://trackit-4afef.web.app/"
+    },
     {
       "project": "Swegga",
-       "description": "Using Html, CSS and Javascript I designed a swegga, web application",
-       "image": "https://nusaibah1.github.io/portfolioImages/images/Calculator.png",
-       "github": "https://github.com/Nusaibah01/JavaScript-Calculator.git",
-       "vercel": "https://java-script-calculator-sigma.vercel.app/"
+       "description": "Using Html, CSS and Javascript I designed a swegga, an order page web application",
+       "image": "https://nusaibah1.github.io/portfolioImages/images/Swegga.png",
+       "github": "https://github.com/nusaibah1/Swegga.git",
+       "vercel": "swegga-amber.vercel.app"
     },
-    {
-       "project": "Keyboard",
-       "description":"Using Html, CSS and Javascript I designed a keyboard web application",
-       "image":"https://nusaibah1.github.io/portfolioImages/images/KeyBoard.png",
-       "github":"https://github.com/Nusaibah01/Keyboard.git",
-       "vercel":"https://keyboard-rosy.vercel.app/"
 
-    },
-    {
-       "project": "To Do List",
-       "description":"Using Html, CSS and javascript I designed a To Do List web application",
-       "image":"https://nusaibah1.github.io/portfolioImages/images/TODO.png",
-       "github":"https://github.com/nusaibah1/toDoList.git",
-       "vercel":"https://todolist-gamma-tan.vercel.app/"
-    },
-    {
+   {
        "project": "Eccomerce",
        "description": "Using Html, CSS and Javascript I designed a bookstore web application",
        "image":"https://nusaibah1.github.io/portfolioImages/images/eccomerce.png",
@@ -144,18 +145,13 @@
 
     },
     {
-        "project": "IMS",
-        "description": "For my Capstone Project at Life Choices Academy, I designed a full stack Inventory Management System web application.",
-        "image": "https://nusaibah1.github.io/portfolioImages/images/Track-It.png",
-        "github": "https://github.com/nusaibah1/Track-It.git",
-        "firebase": "https://trackit-4afef.web.app/"
-    },
-    {
-        "project":"Case Study",
-        "description": "At LC Studio I worked on a portfolio case study with my team members for the UI/UX hackathon we particapated in.",
-        "image": "https://nusaibah1.github.io/portfolioImages/images/Case Study.png",
-        "addLinks": "https://trello.com/invite/b/67122a36fc7809302f1e4c3a/ATTI915de7c5b54b2f92e8a0ed5d5f8dc74a3DEFD47C/team-e"
-    },
+        "project": "To Do List",
+        "description":"Using Html, CSS and javascript I designed a To Do List web application",
+        "image":"https://nusaibah1.github.io/portfolioImages/images/TODO.png",
+        "github":"https://github.com/nusaibah1/toDoList.git",
+        "vercel":"https://todolist-gamma-tan.vercel.app/"
+     },
+ 
    {
     "project": "Whac-A-Mole",
     "description": "Using Html, CSS and JavaScript I designed a retro Whac-A-Mole Game web application",
