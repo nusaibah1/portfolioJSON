@@ -113,8 +113,8 @@
 ],
 "projects" : [
     {
-      "project": "Calculator",
-       "description": "Using Html, CSS and Javascript I designed a calculator web application",
+      "project": "Swegga",
+       "description": "Using Html, CSS and Javascript I designed a swegga, web application",
        "image": "https://nusaibah1.github.io/portfolioImages/images/Calculator.png",
        "github": "https://github.com/Nusaibah01/JavaScript-Calculator.git",
        "vercel": "https://java-script-calculator-sigma.vercel.app/"
@@ -149,6 +149,12 @@
         "image": "https://nusaibah1.github.io/portfolioImages/images/Track-It.png",
         "github": "https://github.com/nusaibah1/Track-It.git",
         "firebase": "https://trackit-4afef.web.app/"
+    },
+    {
+        "project":"Case Study",
+        "description": "At LC Studio I worked on a portfolio case study with my team members for the UI/UX hackathon we particapated in, this experiance helped me further my understanding of design principles and enhance my understanding of figma tools",
+        "image": "https://nusaibah1.github.io/portfolioImages/images/Case Study.png",
+        "addLinks": "https://trello.com/invite/b/67122a36fc7809302f1e4c3a/ATTI915de7c5b54b2f92e8a0ed5d5f8dc74a3DEFD47C/team-e"
     },
    {
     "project": "Whac-A-Mole",
