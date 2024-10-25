@@ -112,6 +112,13 @@
        
 ],
 "projects" : [
+    {
+        "project": "Scrum Hackathon",
+        "description":"At LC Studio I worked with my team of software engineering interns and designed a fast food mobile application, Slice & Stack using scrum methodologies",
+        "image":"https://nusaibah1.github.io/portfolioImages/images/Slice&Stack.png",
+        "addLinks":"https://trello.com/invite/b/67161505e75be9517fddf1c9/ATTI8d0f271668e0ac9e6695f3859b2c39feC8558C80/team-e-scrum"
+     },
+ 
 
     {
         "project":"Case Study",
@@ -145,14 +152,7 @@
     },
 
   
-    {
-        "project": "To Do List",
-        "description":"Using Html, CSS and javascript I designed a To Do List web application",
-        "image":"https://nusaibah1.github.io/portfolioImages/images/TODO.png",
-        "github":"https://github.com/nusaibah1/toDoList.git",
-        "vercel":"https://todolist-gamma-tan.vercel.app/"
-     },
- 
+
    {
     "project": "Whac-A-Mole",
     "description": "Using Html, CSS and JavaScript I designed a retro Whac-A-Mole Game web application",
