@@ -111,6 +111,13 @@
 ],
 "projects" : [
     {
+        "project": "WeatherWise",
+        "description": "My final project in my Software Engineering learning journey, the WeatherWise Hackathon put my skills I'd gained to the test and my team and I was able to finish the challenge successfully with time to spare.",
+        "image": "https://nusaibah1.github.io/portfolioImages/images/WeatherWise.png",
+        "vercel": "https://weather-wise-sftw-eng.vercel.app/"
+    },
+    
+    {
         "project": "Scrum Hackathon",
         "description":"At LC Studio I worked with my team of software engineering interns and designed a fast food mobile application, Slice & Stack using scrum methodologies",
         "image":"https://nusaibah1.github.io/portfolioImages/images/Slice&Stack.png",
