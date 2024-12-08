@@ -139,15 +139,7 @@
         "github": "https://github.com/nusaibah1/Track-It.git",
         "firebase": "https://trackit-4afef.web.app/"
     },
-    {
-        "project": "Eccomerce",
-        "description": "Using Html, CSS and Javascript I designed a bookstore web application",
-        "image":"https://nusaibah1.github.io/portfolioImages/images/eccomerce.png",
-        "github": "https://github.com/nusaibah1/eunioaBookstore.git",
-        "vercel": "https://eccomerce-ebon.vercel.app/"
- 
- 
-     },
+
     {
       "project": "Swegga",
        "description": "Using Html, CSS and Javascript I designed a swegga, an order page web application",
