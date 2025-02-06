@@ -1,12 +1,12 @@
 {
     "jobTitle": [
          {
-            "title":"Aspiring  Developer..."
+            "title":"Software Developer"
 
 
          },
          {
-            "title": "Aspiring Software Engineer"
+            "title": "Aspiring Machine Learning Engineer"
          }
 
     ],
@@ -112,14 +112,14 @@
 "projects" : [
     {
         "project": "WeatherWise",
-        "description": "My final project in my Software Engineering learning journey, the WeatherWise Hackathon put my skills I'd gained to the test and my team and I was able to finish the challenge successfully with time to spare.",
+        "description": "The final project in my Software Engineering learning journey, the WeatherWise Hackathon put my skills I'd gained to the test. Collaborating with my team, we rose to the challenge and delivered a successful solution, finishing ahead of schedule and exceeding expectations.",
         "image": "https://nusaibah1.github.io/portfolioImages/images/WeatherWise.png",
         "vercel": "https://weather-wise-sftw-eng.vercel.app/"
     },
     
     {
         "project": "Scrum Hackathon",
-        "description":"At LC Studio I worked with my team of software engineering interns and designed a fast food mobile application, Slice & Stack using scrum methodologies",
+        "description":"Collaborated with a talented team of software engineering interns to design Slice & Stack, an innovative fast food mobile application. Leveraging scrum methodologies, we crafted a user-focused solution for an internal hackathon.",
         "image":"https://nusaibah1.github.io/portfolioImages/images/Slice&Stack.png",
         "addLinks":"https://trello.com/invite/b/67161505e75be9517fddf1c9/ATTI8d0f271668e0ac9e6695f3859b2c39feC8558C80/team-e-scrum"
      },
@@ -134,26 +134,29 @@
 
     {
         "project": "IMS",
-        "description": "For my Capstone Project at Life Choices Academy, I designed a full stack Inventory Management System web application.",
+        "description": "My Capstone Project at Life Choices Academy, a full stack Inventory Management System web application.",
+        "techStack": "HTML, CSS, VueJS, MYSQL,JavaScript, NodeJS",
         "image": "https://nusaibah1.github.io/portfolioImages/images/Track-It.png",
         "github": "https://github.com/nusaibah1/Track-It.git",
         "firebase": "https://trackit-4afef.web.app/"
     },
 
     {
-      "project": "Swegga",
-       "description": "Using Html, CSS and Javascript I designed a swegga, an order page web application",
-       "image": "https://nusaibah1.github.io/portfolioImages/images/Swegga.png",
-       "github": "https://github.com/nusaibah1/Swegga.git",
-       "vercel": "https://swegga-amber.vercel.app/"
+      "project": "SocialBook",
+       "description": "Facebook clone built using html, css",
+       "image": "https://nusaibah1.github.io/portfolioImages/images/socialBook.png",
+        "techStack": "HTML, CSS, JavaScript",
+       "github": "https://github.com/nusaibah1/socialBook.git",
+       "vercel": "social-book-tau.vercel.app"
     },
 
   
 
    {
     "project": "Whac-A-Mole",
-    "description": "Using Html, CSS and JavaScript I designed a retro Whac-A-Mole Game web application",
-    "image": "https://nusaibah1.github.io/portfolioImages/images/WAM.png",
+    "description": "",
+    "image": "https://nusaibah1.github.io/portfolioImages/images/WAM.png" ,
+    "techStack": "HTML, CSS, JavaScript"
     "github": "https://github.com/nusaibah1/Whac-A-Mole.git",
     "vercel": "https://whac-a-mole-seven.vercel.app/"
    }
