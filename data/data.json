@@ -156,7 +156,7 @@
     "project": "Whac-A-Mole",
     "description": "",
     "image": "https://nusaibah1.github.io/portfolioImages/images/WAM.png" ,
-    "techStack": "HTML, CSS, JavaScript"
+    "techStack": "HTML, CSS, JavaScript",
     "github": "https://github.com/nusaibah1/Whac-A-Mole.git",
     "vercel": "https://whac-a-mole-seven.vercel.app/"
    }
