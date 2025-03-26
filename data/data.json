@@ -1,12 +1,19 @@
 {
     "jobTitle": [
          {
-            "title":"Software Developer"
+            "title":"Creative Software Developer"
 
 
          },
+        {           
+            "title": "Experianced in web based development"
+        },
+        {           
+            "title": "Learning mobile development"
+        },
+
          {
-            "title": "Aspiring Machine Learning Engineer"
+            "title": "I Build and design games in my spare time "
          }
 
     ],
