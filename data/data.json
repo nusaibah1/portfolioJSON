@@ -140,10 +140,10 @@
     },
 
     {
-        "project": "IMS",
-        "description": "My Capstone Project at Life Choices Academy, a full stack Inventory Management System web application.",
-        "techStack": "HTML, CSS, VueJS, MYSQL,JavaScript, NodeJS",
-        "image": "https://nusaibah1.github.io/portfolioImages/images/Track-It.png",
+        "project": "WizardHome",
+        "description": "Showcases my milestones through interactive gameplay, sprite animations, and a retro vibe that highlights my JavaScript skills and creativity.",
+        "techStack": "HTML, CSS, Kaboom.JS",
+        "image": "https://nusaibah1.github.io/portfolioImages/images/game.png",
         "github": "https://github.com/nusaibah1/Track-It.git",
         "firebase": "https://trackit-4afef.web.app/"
     },
